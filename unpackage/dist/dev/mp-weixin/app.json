@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/index",
+    "pages/shopping-cart/index",
+    "pages/user-center/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "街边杂货铺",
+    "navigationBarBackgroundColor": "#002766",
+    "backgroundColor": "#f5f5f5"
+  },
+  "usingComponents": {}
+}

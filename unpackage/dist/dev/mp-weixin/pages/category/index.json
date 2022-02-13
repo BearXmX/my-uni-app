@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "tabbar": "/components/tabbar/index",
+    "developing": "/components/developing/index"
+  }
+}
